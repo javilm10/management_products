@@ -22,7 +22,7 @@
             background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); /* Fondo negro semi-transparente para la contenedor */
             border-radius: 10px; /* Bordes redondeados */
-            padding: 20px; /* Espaciado interior */
+            padding: 20px; /* Espaciado interior  */
         }
         .btn {
             transition: background-color 0.3s;
