@@ -1,0 +1,15 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #ffcc00; /* Cambia el color del encabezado */
+}
+
+.alert {
+    border-radius: 5px; /* Bordes redondeados para las alertas */
+}
+
+.btn {
+    border-radius: 5px; /* Bordes redondeados para botones */
+}
